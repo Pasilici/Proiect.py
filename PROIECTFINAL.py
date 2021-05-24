@@ -9,14 +9,6 @@ import pandas as pd
 
 
 
-
-
-
-
-
-
-
-
 BASE_URL = 'http://ro.tntimisoara.com/category/stagiunea_18-19/'
 
 
